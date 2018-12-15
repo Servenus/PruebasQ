@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Google Translate" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-12-15T16:02:04" hostname="DESKTOP-ODA6KMJ" time="29.77">
+  <properties/>
+  <testcase name="Tranlate from English to Spanish" classname="Google Translate" time="29.77"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[dic 15, 2018 11:02:04 AM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a) on port 44581
+Only local connections are allowed.
+dic 15, 2018 11:02:11 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>
